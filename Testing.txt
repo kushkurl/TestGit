@@ -1,1 +1,2 @@
-This another file for testing git
+This another file for testing git and made some changes
+
